@@ -1,0 +1,14 @@
+C:\Users\Billson\Documents\GitHub\DataStructsAndAlgos\bin\Debug\net7.0\DataStructsAndAlgos.exe
+C:\Users\Billson\Documents\GitHub\DataStructsAndAlgos\bin\Debug\net7.0\DataStructsAndAlgos.deps.json
+C:\Users\Billson\Documents\GitHub\DataStructsAndAlgos\bin\Debug\net7.0\DataStructsAndAlgos.runtimeconfig.json
+C:\Users\Billson\Documents\GitHub\DataStructsAndAlgos\bin\Debug\net7.0\DataStructsAndAlgos.dll
+C:\Users\Billson\Documents\GitHub\DataStructsAndAlgos\bin\Debug\net7.0\DataStructsAndAlgos.pdb
+C:\Users\Billson\Documents\GitHub\DataStructsAndAlgos\obj\Debug\net7.0\DataStructsAndAlgos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Billson\Documents\GitHub\DataStructsAndAlgos\obj\Debug\net7.0\DataStructsAndAlgos.AssemblyInfoInputs.cache
+C:\Users\Billson\Documents\GitHub\DataStructsAndAlgos\obj\Debug\net7.0\DataStructsAndAlgos.AssemblyInfo.cs
+C:\Users\Billson\Documents\GitHub\DataStructsAndAlgos\obj\Debug\net7.0\DataStructsAndAlgos.csproj.CoreCompileInputs.cache
+C:\Users\Billson\Documents\GitHub\DataStructsAndAlgos\obj\Debug\net7.0\DataStructsAndAlgos.dll
+C:\Users\Billson\Documents\GitHub\DataStructsAndAlgos\obj\Debug\net7.0\refint\DataStructsAndAlgos.dll
+C:\Users\Billson\Documents\GitHub\DataStructsAndAlgos\obj\Debug\net7.0\DataStructsAndAlgos.pdb
+C:\Users\Billson\Documents\GitHub\DataStructsAndAlgos\obj\Debug\net7.0\DataStructsAndAlgos.genruntimeconfig.cache
+C:\Users\Billson\Documents\GitHub\DataStructsAndAlgos\obj\Debug\net7.0\ref\DataStructsAndAlgos.dll
